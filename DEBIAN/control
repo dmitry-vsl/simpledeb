@@ -1,0 +1,8 @@
+Package: xxx
+Architecture: amd64
+Multi-Arch: foreign
+Maintainer: xxx@xxx.com
+Description: description
+Version: 1
+Depends:
+

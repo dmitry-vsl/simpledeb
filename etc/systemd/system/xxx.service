@@ -1,0 +1,10 @@
+[Unit]
+Description=XXX
+
+[Service]
+Type=simple
+WorkingDirectory=/tmp
+ExecStart=/usr/bin/python -m SimpleHTTPServer
+
+[Install]
+WantedBy=default.target
